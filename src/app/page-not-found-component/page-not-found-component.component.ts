@@ -16,7 +16,7 @@ export class PageNotFoundComponentComponent implements OnInit {
       d: Array<number> = [null, undefined, 10, 15] ;
 
       sentence :string =` ${this.e} ${this.f} ${this.d[2]}` ;
-e="ed";
+
       
       
 }
